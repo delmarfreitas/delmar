@@ -1,4 +1,4 @@
-### Olá, meu nome é Delmar Freitas!
+###  Olá, meu nome é Delmar Freitas, sou estudande de programação!
 <div align="center">
   <a href="https://github.com/delmarfreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delmarfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
